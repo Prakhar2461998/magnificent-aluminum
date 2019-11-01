@@ -1,5 +1,5 @@
 ---
-title: NexaStack-DevOps and Serverless Computing Platforms
+title: NexaStack-
 sections:
   - actions:
       - label: Learn More
