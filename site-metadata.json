@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Free Trial",
+          "url": ""
         }
       ]
     }
@@ -19,7 +19,7 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "NexaStack A product of XenonStack  NexaStack Provides DevOps as a Service and Unified DevOps Platform used to Automate, Monitor and Analyze the Secure Application Delivery Pipeline.",
     "logo_img": "images/logo_alt.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
