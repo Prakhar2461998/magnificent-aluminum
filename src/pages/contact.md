@@ -13,7 +13,7 @@ menus:
   main:
     weight: ''
   secondary:
-    title: Contact Us
+    title: ''
     weight: 3
 template: landing
 ---
